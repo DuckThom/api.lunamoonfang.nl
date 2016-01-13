@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/api-lunamoonfang-nl":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/api-lunamoonfang-nl","hostpath":"/Users/luna/Git-Repositories/api.lunamoonfang.nl","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/luna/Git-Repositories/api.lunamoonfang.nl","disabled":false}}}
